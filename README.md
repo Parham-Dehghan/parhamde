@@ -12,7 +12,7 @@
 - 🔥 **Core**: **Machine Learning**, **Deep Learning**, and **Data Analysis**.  
 - 🌱 **Studying**: Exploring **Neural Networks**, **TensorFlow**, and **PyTorch**.  
 - 🤝 **Collab mode**: Open for ML projects, open-source .ipynb files, or teaching!  
-- 📬 **Connect**: [parham@example.com](mailto:parham@example.com) | [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📬 **Connect**: [parham@example.com](mailto:parham@example.com) | [Telegram](https://t.me/machine_learning7) | [LinkedIn](https://www.linkedin.com/in/m-d-27116b28a/)  
 - 😎 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I once built an ML model from an Excel file in a single Jupyter session! 😄  
 
