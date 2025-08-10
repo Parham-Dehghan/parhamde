@@ -62,7 +62,7 @@
 
 ### 🌈 Let’s Code the Future!
 <div align="center">
-  <a href="https://github.com/parhamde"><img src="https://img.shields.io/badge/GitHub-Follow%20Me!-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Parham-Dehghan"><img src="https://img.shields.io/badge/GitHub-Follow%20Me!-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Say%20Hi!-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-See%20My%20Work!-FF2D55?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
